@@ -3,6 +3,7 @@
 
 main()
 {
+	printf("this is change!");
 	foo1();
 	foo2();
 	foo1();
