@@ -7,5 +7,5 @@ main()
 	foo2();
 	foo1();
 
-	printf("hello! bug123~");
+	printf("hello! bug123~~~~~^^");
 }
