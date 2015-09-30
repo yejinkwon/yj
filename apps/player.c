@@ -9,4 +9,5 @@ main()
 	foo1();
 
 	printf("hello! bug123~~~~~^^");
+	printf("hi");
 }
